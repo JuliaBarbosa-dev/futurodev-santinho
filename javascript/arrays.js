@@ -8,4 +8,4 @@
 // console.log(frutas[0]); //acessar indice
 // console.log(frutas[2]);
 // console.log(frutas);
-// // console.log(copy);
+// console.log(copy);
